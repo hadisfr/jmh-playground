@@ -8,7 +8,7 @@ hopefully this repo makes this process easier for others.
 
 ## How to run benchmarks
 
-```
+```bash
 # Runs both 'clean' and 'shadowJar' by default, which is what you want
 ./gradlew
 
